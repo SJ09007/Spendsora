@@ -1,0 +1,1 @@
+Spendsora is an AI-powered personal finance platform that lets users log expenses through Telegram, automatically categorizes transactions, generates detailed analytics, tracks budgets, and provides intelligent spending insights.
